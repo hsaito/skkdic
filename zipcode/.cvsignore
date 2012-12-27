@@ -1,0 +1,13 @@
+.zipcode
+.office
+.work
+*.diff
+*.orig
+Makefile
+config.cache
+config.log
+config.status
+jigyosyo.csv
+jigyosyo.lzh
+ken_all.csv
+ken_all.lzh
